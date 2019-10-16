@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  ShoppingList
-//
-//  Created by SETAS on 2019-10-16.
-//  Copyright © 2019 CentennialCollege. All rights reserved.
-//
 
 import UIKit
 
